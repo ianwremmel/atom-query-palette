@@ -1,0 +1,25 @@
+'menu': [
+  {
+    'label': 'View',
+    'submenu': [
+      {
+        'label': 'Toggle Query Pallete'
+        'command': 'query-palette:toggle'
+      }
+    ]
+  }
+  {
+    'label': 'Packages'
+    'submenu': [
+      {
+        'label': 'Query Palette'
+        'submenu': [
+          {
+            'label': 'Toggle',
+            'command': 'query-palette:toggle'
+          }
+        ]
+      }
+    ]
+  }
+]

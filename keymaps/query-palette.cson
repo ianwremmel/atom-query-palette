@@ -1,0 +1,5 @@
+'.platform-darwin, .platform-darwin .query-palette .editor':
+  'cmd-shift-j': 'query-palette:toggle'
+
+'.platform-win32, .platform-win32 .query-palette .editor':
+  'ctrl-shift-j': 'query-palette:toggle'

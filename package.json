@@ -1,0 +1,18 @@
+{
+  "name": "atom-query-palette",
+  "main": "./lib/query-palette",
+  "version": "0.0.0",
+  "description": "Run queries against text data using `cmd-shift-j` in Atom.",
+  "activationEvents": [
+    "query-palette:toggle"
+  ],
+  "repository": "https://github.com/ianwremmel/atom-query-palette",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {
+    "underscore-plus": "1.x",
+    "JSONPath": "^0.9.1"
+  }
+}
