@@ -17,3 +17,6 @@ Query processing relies on [JSONPath](https://github.com/s3u/JSONPath). See that
 - [ ] Replace JSONPath with something that
   1. More closely resembles XPath.
   2. Works.
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/ianwremmel/atom-query-palette/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
