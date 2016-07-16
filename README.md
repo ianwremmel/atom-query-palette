@@ -1,4 +1,4 @@
-# Query Palette package
+# Query Palette package [![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
 
 Run queries against text data using `cmd-shift-j` in Atom.
 
