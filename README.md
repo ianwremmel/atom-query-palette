@@ -1,5 +1,7 @@
 # Query Palette package [![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ianwremmel/atom-query-palette.svg)](https://greenkeeper.io/)
+
 Run queries against text data using `cmd-shift-j` in Atom.
 
 ## Supported Formats
